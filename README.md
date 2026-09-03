@@ -13,7 +13,7 @@ The application is built with **Python and Streamlit** and uses a **Retrieval-Au
 
 **Streamlit Application:**
 
-https://radiation-oncology-chatbot-hcaxykgbrx3tavrmfolcdf.streamlit.app/
+https://radiation-oncology-ai-chatbot-qqwnk4qeqjy547ykzpkcjh.streamlit.app/
 
 ---
 
